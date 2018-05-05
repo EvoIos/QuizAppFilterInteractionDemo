@@ -1,0 +1,6 @@
+framework module Pods_QuizAppFilterInteractionDemo {
+  umbrella header "Pods-QuizAppFilterInteractionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
